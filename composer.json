@@ -1,5 +1,5 @@
 {
-    "name": "renee/last-php-demo",
+    "name": "renee/php-demo",
     "require": {
         "paubox/paubox-php": "^1.0"
     }
